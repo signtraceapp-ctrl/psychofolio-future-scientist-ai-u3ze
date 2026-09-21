@@ -1,129 +1,180 @@
 {
   "site": {
-    "name": "Ad Soyad",
-    "title": "Klinik Psikolog",
-    "email": "bilgi@klinik.com",
-    "address": "Nişantaşı, İstanbul",
-    "copyright": "Tüm hakları saklıdır."
+    "name": "Future Scientist AI",
+    "title": "TEST Test",
+    "email": "futurescientistai@gmail.com",
+    "address": "karaköy, istanbul",
+    "copyright": "Tüm hakları saklıdır.",
+    "hours": "pazartsi-sali 12:00 15:00",
+    "phone": "+905312775292"
   },
   "home": {
-    "badge": "SERENE",
-    "headline": "Zihnin sessizliğinde,",
-    "headlineAccent": "kendi yolunuzu",
-    "headlineSuffix": "bulun.",
-    "description": "Güvene dayalı, yavaş ve derinlemesine çalışan bir terapi yaklaşımı ile içsel dengenizi yeniden inşa edin.",
-    "cta": "Randevu Talep Et",
-    "cardTitle": "Sakinlik & Denge",
-    "cardSubtitle": "Bütünsel Terapi Yaklaşımı",
-    "quote": "Dışarı bakan rüya görür, içeri bakan uyanır.",
-    "quoteAuthor": "Carl Gustav Jung"
+    "headline": "Zihnin sessizliğinde, TEST Test",
+    "headlineAccent": "kendi yolunuzuTEST Test",
+    "headlineSuffix": "TEST Testbulun.",
+    "description": "Güvene dayalı, TEST Test ve derinlemesine çalışan bir terapi yaklaşımı ile içsel dengenizi yeniden inşa edin.",
+    "cta": "Randevu için TIKLATIN!",
+    "cardTitle": "TEST Test",
+    "cardSubtitle": "TEST Test",
+    "quote": "TEST Test",
+    "quoteAuthor": "TEST Test"
   },
   "metrics": [
-    { "val": "12+", "unit": "Yıl", "label": "Klinik Deneyim" },
-    { "val": "4500+", "unit": "", "label": "Tamamlanmış Seans" },
-    { "val": "8", "unit": "+", "label": "Akademik Yayın" },
-    { "val": "%100", "unit": "", "label": "Etik Taahhüt" }
+    {
+      "val": "10",
+      "unit": "Yıl",
+      "label": "TEST Test"
+    },
+    {
+      "val": "4",
+      "unit": "",
+      "label": "TEST Test"
+    },
+    {
+      "val": "2",
+      "unit": "",
+      "label": "TEST Test"
+    }
   ],
   "services": [
     {
-      "title": "Bireysel Psikoterapi",
-      "desc": "Stres, kaygı, depresyon, yaşam değişimleri ve anlam arayışında bireysel farkındalık yolculuğu.",
-      "duration": "50 dk",
-      "method": "CBT / Şema Terapi"
+      "desc": "TEST Test",
+      "title": "TEST Test",
+      "method": "TEST Test",
+      "duration": "5 dk"
     },
     {
-      "title": "Çift & İlişki Terapisi",
-      "desc": "İlişki içi çatışmalar, iletişim problemleri ve bağlılık krizleri üzerine çiftler arası iyileşme.",
-      "duration": "75 dk",
-      "method": "Gottman / Sistemik"
+      "desc": "TEST Test",
+      "title": "TEST Test",
+      "method": "TEST Test",
+      "duration": "70 dk"
     },
     {
-      "title": "EMDR Travma Terapisi",
-      "desc": "Zorlayıcı geçmiş deneyimlerin nörolojik düzeyde duyarsızlaştırılıp yeniden işlenmesi.",
-      "duration": "60 dk",
-      "method": "EMDR Protokolü"
+      "desc": "TEST Test",
+      "title": "TEST Test",
+      "method": "TEST Test",
+      "duration": "6 dk"
+    },
+    {
+      "desc": "TEST Test",
+      "title": "TEST Test",
+      "method": "TEST Test",
+      "duration": "50 Dk"
+    },
+    {
+      "desc": "TEST Test",
+      "title": "TEST Test",
+      "method": "TEST Test",
+      "duration": "50 Dk"
     }
   ],
   "about": {
     "title": "Hakkımda",
-    "intro": "Klinik psikoloji yolculuğum, insanın kendisiyle barışma arayışını anlama arzusuyla başladı. 10 yılı aşkın süredir danışanlarımla güvenli bir farkındalık alanında buluşuyorum.",
-    "introSecond": "Zihinsel düğümlerin şefkatli bir eşlik etme süreciyle çözülebileceğine inanıyorum.",
+    "intro": "12 yılı aşkın klinik deneyimimle, bilimsel temelli ve bütünleşik bir terapi yaklaşımı sunuyorum.",
+    "introSecond": "Her danışanımın benzersiz hikayesine saygı duyarak, birlikte iyileşme yolculuğuna çıkıyoruz.",
+    "calloutTitle": "Terapi Felsefem",
+    "calloutText": "Her insan, kendi hikayesinin yazarı olmaya layıktır.",
+    "organizations": [
+      "Bilişsel Davranışçı Terapi",
+      "EMDR Terapisi",
+      "Şema Terapi",
+      "Çift ve Aile Terapisi"
+    ],
     "credentials": [
       {
-        "year": "2014",
-        "title": "İstanbul Üniversitesi - Psikoloji Lisans",
-        "detail": "Birincilik derecesiyle mezuniyet"
+        "year": "2010",
+        "title": "TEST Test",
+        "detail": "TEST Test"
       },
       {
-        "year": "2016",
-        "title": "Klinik Psikoloji Yüksek Lisansı",
-        "detail": "Kaygı bozuklukları tez çalışması"
-      },
-      {
-        "year": "2018",
-        "title": "EMDR Avrupa Akredite Uygulayıcı",
-        "detail": "EMDR Europe onaylı sertifika"
+        "year": "2020",
+        "title": "TEST Test",
+        "detail": "TEST Test"
       }
     ]
   },
   "approach": {
-    "title": "Terapi Yaklaşımım",
-    "intro": "Terapi, yaşamın karmaşası içinde durup kendimize bakabildiğimiz, sessiz ve yargısız bir tanıklık alanıdır.",
+    "title": "TEST Test",
+    "intro": "TEST Test",
     "principles": [
       {
-        "title": "Güvenli Alan",
-        "desc": "Tam gizliliğe ve şefkate dayalı bir terapötik alan."
+        "desc": "TEST Test",
+        "title": "TEST Test"
       },
       {
-        "title": "Kişiye Özel Süreç",
-        "desc": "İhtiyaçlarınıza, hızınıza ve hedeflerinize özel planlama."
+        "desc": "TEST Test, hızınıza ve hedeflerinize özel planlama.",
+        "title": "TEST Test"
       },
       {
-        "title": "Aktif İş Birliği",
-        "desc": "İki uzmanın omuz omuza çalıştığı bir ortaklık."
+        "desc": "TEST Test",
+        "title": "TEST Test"
+      },
+      {
+        "desc": "TEST TestAFSF",
+        "title": "TEST Test"
       }
     ]
   },
   "articles": [
     {
+      "date": "28 Mayıs 2026",
       "title": "Kaygı Bozukluklarında Bilişsel Yeniden Yapılandırma",
       "category": "Klinik",
-      "readTime": "8 dk",
-      "date": "28 Mayıs 2026"
+      "readTime": "8 dk"
     },
     {
+      "date": "24 Temmuz 2026",
       "title": "Çocuklarda Duygusal Güvenlik Alanı Oluşturmak",
       "category": "Çocuk-Ergen",
-      "readTime": "6 dk",
-      "date": "24 Temmuz 2026"
+      "readTime": "6 dk"
     },
     {
+      "date": "10 Nisan 2026",
       "title": "EMDR ile Travma Sonrası Büyüme",
       "category": "Travma",
-      "readTime": "10 dk",
-      "date": "10 Nisan 2026"
+      "readTime": "10 dk"
     }
   ],
   "faq": [
     {
-      "q": "İlk terapi seansında ne yapılıyor?",
-      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır."
+      "a": "İlk seans, birbirimizi tanıdığımız, başvuru nedenlerinizi ve hedeflerinizi değerlendirdiğimiz bir ön değerlendirme seansıdır.TEST Test",
+      "q": "İlk terapi seansında ne yapılıyor?TEST Test"
     },
     {
-      "q": "Terapi seansları ne sıklıkla yapılmalı?",
-      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir."
+      "a": "Başlangıçta haftada bir görüşme önerilir. Süreç ilerledikçe sıklık azaltılabilir.TEST Test",
+      "q": "Terapi seansları ne sıklıkla yapılmalı?TEST Test"
     },
     {
-      "q": "Seansların gizliliği nasıl korunur?",
-      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır."
+      "a": "Tüm seanslarımız yasal ve etik sınırlar çerçevesinde %100 gizlilik ilkesine dayanır.TEST Test",
+      "q": "Seansların gizliliği nasıl korunur?TEST Test"
+    },
+    {
+      "a": "TEST Test",
+      "q": "TEST Test"
+    },
+    {
+      "a": "TEST Test",
+      "q": "TEST Test"
     }
   ],
   "contact": {
     "title": "Randevu ve İletişim",
-    "intro": "İçsel yolculuğunuza adım atmak veya ön bilgi almak için bana yazabilirsiniz.",
-    "formName": "Adınız",
-    "formEmail": "E-posta",
+    "intro": "İlk görüşme için randevu almak veya sorularınızı iletmek için formu kullanabilirsiniz.TEST Test",
+    "formName": "",
+    "formEmail": "",
     "formMessage": "Mesajınız",
     "formSubmit": "Gönder"
+  },
+  "seo": {
+    "jobTitle": "TEST Test",
+    "description": "Future Scientist AI, karaköy, istanbul merkezli test test.",
+    "specialties": [],
+    "credentials": [
+      "TEST Test (2010)",
+      "TEST Test (2020)"
+    ],
+    "location": "karaköy, istanbul",
+    "socialLinks": [],
+    "openingHours": "Mo-Fr 09:00-18:00"
   }
 }
